@@ -1,2 +1,3 @@
 # cmdLogger
-A program for logging command line arguments and passing them to next one
+A simple program that takes command line arguments, writes the whole command to log and calls next program.
+Redefine constants and use for g++, mingw32-make and other command line utilities.
